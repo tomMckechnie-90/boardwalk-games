@@ -60,7 +60,12 @@ h2{
     border: 2px solid var(--highlight-color);
     color: var(--highlight-color);
     background-color: white;
-    margin: 7px 25px;
+    padding: 7px 25px;
+}
+
+.custom-button-outline:hover{
+    background-color: var(--highlight-color);
+    color: white;
 }
 
 /* Navbar */
